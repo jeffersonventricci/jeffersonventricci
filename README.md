@@ -50,13 +50,13 @@ Landing page conceitual para uma marca fictícia de móveis e design de interior
 
 **Tecnologias:** `HTML` · `CSS`
 
-[🔗 Acesse o repositório da Nova Casa](https://github.com/SEU-USUARIO/REPOSITORIO-NOVA-CASA)
+[🔗 Acesse " Under Construction" ](https://github.com/SEU-USUARIO/REPOSITORIO-NOVA-CASA)
 
 ### 🎮 Projetos com Construct 2
 
 Experimentos e projetos de desenvolvimento de jogos, explorando mecânicas, interações e organização de interfaces.
 
-[🔗 Veja meus repositórios](https://github.com/SEU-USUARIO?tab=repositories)
+[🔗 Veja meus repositórios " Under Construction"](https://github.com/SEU-USUARIO?tab=repositories)
 
 ## 📚 Atualmente estudando
 
