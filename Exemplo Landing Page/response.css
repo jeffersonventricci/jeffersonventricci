@@ -1,0 +1,282 @@
+/* =================================
+   TABLET
+================================= */
+
+@media screen and (max-width: 1024px) {
+
+    header {
+        margin: 0 1.5em;
+    }
+
+    nav {
+        gap: 1.5em;
+    }
+
+    main {
+        margin: 0 1.5em;
+    }
+
+    .container-top {
+        gap: 2em;
+    }
+
+    .titulo-top h2 {
+        font-size: 2.5em;
+    }
+
+    .card-mini {
+        gap: 15px;
+    }
+
+    .card-vendidos {
+        gap: 15px;
+    }
+
+    .vendidos img {
+        height: 220px;
+    }
+
+}
+
+
+/* =================================
+   MOBILE
+================================= */
+
+@media screen and (max-width: 767px) {
+
+    /* HEADER */
+
+    header {
+        margin: 0 15px;
+        padding: 20px 0;
+
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    header h1 {
+        font-size: 2em;
+        padding-bottom: 0;
+    }
+
+    nav {
+        order: 3;
+        width: 100%;
+
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+
+        gap: 15px;
+    }
+
+    nav a {
+        font-size: 14px;
+    }
+
+    .button-header {
+        width: 75px;
+        height: 35px;
+    }
+
+    .button-header button {
+        font-size: 14px;
+    }
+
+
+    /* BANNER PRINCIPAL */
+
+    main {
+        margin: 0 15px;
+    }
+
+    .fundo-top {
+        min-height: auto;
+        padding-bottom: 30px;
+    }
+
+    .container-top {
+        display: flex;
+        flex-direction: column;
+        gap: 25px;
+    }
+
+    .esquerda-top {
+        width: 100%;
+    }
+
+    .titulo-top h2 {
+        font-size: 2em;
+        line-height: 1.2;
+    }
+
+    .paragrafo-top p {
+        font-size: 15px;
+        line-height: 1.6;
+    }
+
+    .direita-top {
+        width: 100%;
+    }
+
+    .imagem-top img {
+        width: 100%;
+        height: 280px;
+        object-fit: cover;
+        border-radius: 15px;
+        display: block;
+    }
+
+
+    /* AMBIENTES */
+
+    .container-mid1 {
+        padding: 30px 15px 20px;
+        text-align: center;
+    }
+
+    .card-mini {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 20px;
+        padding: 0 15px;
+    }
+
+    .card-image {
+        width: 100%;
+    }
+
+    .card-image img {
+        width: 100%;
+        height: 250px;
+        object-fit: cover;
+        border-radius: 12px;
+        display: block;
+    }
+
+
+    /* MAIS VENDIDOS */
+
+    .mais-vendidos {
+        padding: 30px 15px;
+    }
+
+    .card-vendidos {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 20px 12px;
+    }
+
+    .vendidos {
+        min-width: 0;
+    }
+
+    .vendidos img {
+        width: 100%;
+        height: 170px;
+        object-fit: cover;
+        border-radius: 12px;
+        display: block;
+    }
+
+    .nome-produto {
+        font-size: 14px;
+        margin-top: 7px;
+    }
+
+    .valor-produto {
+        font-size: 12px;
+    }
+
+
+    /* BANNER FINAL */
+
+    .final {
+        padding: 30px 15px;
+    }
+
+    .cont-image {
+        width: 100%;
+    }
+
+    .cont-image img {
+        width: 100%;
+        height: 230px;
+        object-fit: cover;
+        border-radius: 12px;
+        display: block;
+    }
+
+    .cont-image p {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+
+
+    /* CTA */
+
+    .back-gray {
+        padding: 35px 15px;
+    }
+
+    .cta-button {
+        text-align: center;
+    }
+
+    .cta-button h2 {
+        font-size: 22px;
+    }
+
+    .cta-button p {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
+
+    /* FOOTER */
+
+    .rodape {
+        padding: 30px 15px;
+        text-align: center;
+    }
+
+    .rodape h2 {
+        font-size: 24px;
+    }
+
+    .rodape p {
+        font-size: 12px;
+    }
+
+}
+
+
+/* =================================
+   CELULARES PEQUENOS
+================================= */
+
+@media screen and (max-width: 380px) {
+
+    nav {
+        gap: 10px;
+    }
+
+    nav a {
+        font-size: 12px;
+    }
+
+    .titulo-top h2 {
+        font-size: 1.7em;
+    }
+
+    .vendidos img {
+        height: 140px;
+    }
+
+    .nome-produto {
+        font-size: 12px;
+    }
+
+}
