@@ -56,7 +56,7 @@ Landing page conceitual para uma marca fictícia de móveis e design de interior
 
 Experimentos e projetos de desenvolvimento de jogos, explorando mecânicas, interações e organização de interfaces.
 
-[🔗 Veja meus repositórios " Under Construction"](https://github.com/SEU-USUARIO?tab=repositories)
+[🔗 Veja meus repositórios](https://jeff-snes.itch.io/)
 
 ## 📚 Atualmente estudando
 
