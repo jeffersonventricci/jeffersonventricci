@@ -76,18 +76,12 @@ Quero unir **design, tecnologia e visão de negócio** para criar soluções dig
 
 Se quiser trocar ideias sobre interfaces, desenvolvimento, projetos ou tecnologia, será um prazer conversar.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Acompanhe%20meus%20projetos-181717?style=for-the-badge&logo=github)](https://github.com/SEU-USUARIO)
-
-[![LinkedIn](https://www.linkedin.com/in/jefferson-magno-ventricci/)
+- 💻 GitHub: [Acesse meu GitHub](https://github.com/seu-usuario)
+- 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/jefferson-magno-ventricci/)
+- 🎨 Behance: [Meu Behance](https://www.behance.net/jeffersventric)
 
 ---
 
 *Feito com dedicação, curiosidade e vontade de aprender. ✦*
-
-`<br>`{=html}
-
-`<sub>`{=html}Feito com dedicação, curiosidade e vontade de aprender.
-✦`</sub>`{=html}
-:::
 
 Continuar desenvolvendo minhas habilidades em design e tecnologia, criando projetos que unam usabilidade, criatividade e funcionalidade.
