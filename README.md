@@ -78,7 +78,7 @@ Se quiser trocar ideias sobre interfaces, desenvolvimento, projetos ou tecnologi
 
 [![GitHub](https://img.shields.io/badge/GitHub-Acompanhe%20meus%20projetos-181717?style=for-the-badge&logo=github)](https://github.com/SEU-USUARIO)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU-LINKEDI](https://www.linkedin.com/in/jefferson-magno-ventricci/)N)
+[![LinkedIn](https://www.linkedin.com/in/jefferson-magno-ventricci/)
 
 ---
 
