@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lexend:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Pixelify+Sans:wght@400..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+   font-family: "Lexend", sans-serif;
+}
+
+#close {
+    display: none;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#e4e4e6;
+    flex-direction: column;
+    position: relative;
+}
+
+
+.logo {
+    margin-top: 5em;
+    margin-bottom: 2em;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 1em;
+    padding: 2em 2em;
+    position: relative;
+    
+
+}
+
+
+.container h1 {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+   
+}
+
+#login {
+      
+   text-align: start;
+   font-size: 0.8em;
+
+
+}
+
+.login-social {
+    display: flex;
+    margin: 1em 0;
+    width: 100%;
+    height: 45px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+   
+}
+
+
+.login-social img {
+    
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    margin-right: 64%;
+
+}
+
+
+.login-social button {
+    width: 100%;
+    border: none;
+    height: 100%;
+    background-color: white;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+    border-radius: 0.5em;
+}
+    
+.login-social button:hover {
+    cursor: pointer;
+}
+
+#linkedin {
+    background-color: #0173b1;
+    color: white;
+}
+
+#img-linkedin {
+    width: 32px;
+    height: 32px;
+    margin-bottom: 4px;
+    margin-right: 155px;
+   
+}
+
+
+#cadastro{
+     
+    
+    font-size: 0.8em;
+    margin-left: 8px;
+}
+
+
+#email{
+    margin: 2em 20px 0 0;
+    font-size: 0.8em;
+}
+
+#senha{
+    margin: 2em 20px 0 0;
+    font-size: 0.8em;
+}
+
+
+.login{
+    
+    position: relative;
+    margin-top: 0.3em;
+    
+}
+
+
+.input-box{
+    
+    margin-bottom: 1em;
+    height: 44px;
+    border-radius: 0.5em;
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+}
+
+
+
+.input-box input {
+    width: 80%;
+    height: 32px;   
+    border: none;    
+    padding-left: 0.5em;    
+
+}
+
+#nome{
+
+    width: 90%;
+}
+
+.input-box input:focus{
+    outline: none;
+}
+
+
+.input-box i {
+
+   margin-left: 1em;
+
+}
+
+
+.input-box i:active {
+    display: none;
+
+}
+
+#esqueci-senha {
+
+    margin-top: 1em;
+    margin-bottom: 1.5em;
+    font-size: 0.9em;
+    color:#632295 ;
+    font-weight: 600;
+}
+#esqueci-senha:active{
+    color: orangered;
+}
+
+
+
+
+.button-entrar button {
+    width: 100%;
+    height: 44px;
+    border-radius: 0.5em;
+    border: none;
+    margin-bottom: 2em;
+    background-color: #811b71;
+    color: white;
+    font-size: 0.9em;
+    font-weight: 500;
+}
+
+
+
+
+.rodape {
+    display: flex;
+    gap: 0.3em;
+    font-weight: 600;
+    font-size: 0.9em;
+}
+
+.rodape a:active {
+    color: orangered;
+}
+
+
+.button-entrar>button:hover{
+    cursor: pointer;
+}
+
+.img-fixed{
+    position: absolute; 
+    display: flex;
+    width: 90%;       
+    justify-content: end;
+    
+    height: 100%;
+    transform: translate(-5%, -5%);
+    
+
+}
+
+.img-fixed img{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    margin-top: 161%;
+    position: relative;
+    
+    
+}
